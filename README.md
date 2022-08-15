@@ -34,5 +34,5 @@
 
 ##
 
-- 🔭 Atualmente em busca de um trabalho como Desenvolvedor web Full-stack ou Front-End
-- 🌱 Estudando Javascript, Typescript e React
+- 🔭 Atualmente em busca de um trabalho como Desenvolvedor web Full-stack ou Front-End.
+- 🌱 Estudando Javascript, Typescript e React.
