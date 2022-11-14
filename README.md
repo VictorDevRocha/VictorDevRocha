@@ -35,5 +35,4 @@
 
 ##
 
-- 🔭 Atualmente em busca de um trabalho como Desenvolvedor web Front-End.
-- 🌱 Estudando Javascript, Typescript e React.
+- 🌱 Estudando Typescript e React.
